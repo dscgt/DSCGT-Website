@@ -296,6 +296,11 @@ canvas {
     }
 }
 
+.what-we-do-col-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 /* ---- Domains ---- */
 .domains-section {
     /* background-color: #6BF178; */
@@ -365,6 +370,8 @@ canvas {
     vertical-align: middle;
     padding-left: 40px;
     padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 /* ---- Gallery ---- */
